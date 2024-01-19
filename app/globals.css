@@ -25,6 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+header a {
+  margin-left: 20px;
+}
 
 @layer utilities {
   .text-balance {

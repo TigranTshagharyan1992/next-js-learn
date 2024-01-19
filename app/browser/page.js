@@ -7,8 +7,6 @@ export default function Browser() {
     return (
         <>
             <h1>On Cleint side</h1>
-            <div><Link href={'/'}>Home</Link></div>
-            <div> <Link href={'/client'}>Client</Link></div>
         </>
 
     )
